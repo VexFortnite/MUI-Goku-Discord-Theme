@@ -1,0 +1,24 @@
+/**
+* @name Mui_Goku_Theme
+* @version Auto Update
+* @description The Mastered Ultra Incstinct Goku Theme.
+* @author VexFN
+* @invite PZdnCVD
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+:root {
+--themeColor1: #0D8ADCFF;
+--themeColor2: #6384E5FF;
+--customFont: 'Provicali';
+--homeImage: url('https://i.imgur.com/Y581gSG.jpg');
+--homeImageSize: cover;
+--backgroundColor: #0D0B0AFF;
+--backgroundImage: url('https://i.imgur.com/zMHVjWK.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 1px;
+--backgroundOpacity: 0.8;
+--customFont: 'Provicali';
+}
